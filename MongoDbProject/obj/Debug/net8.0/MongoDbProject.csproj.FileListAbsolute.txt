@@ -41,3 +41,4 @@ C:\Users\MICHEAL\source\repos\MongoDbProject\MongoDbProject\obj\Debug\net8.0\ref
 C:\Users\MICHEAL\source\repos\MongoDbProject\MongoDbProject\obj\Debug\net8.0\MongoDbProject.pdb
 C:\Users\MICHEAL\source\repos\MongoDbProject\MongoDbProject\obj\Debug\net8.0\MongoDbProject.genruntimeconfig.cache
 C:\Users\MICHEAL\source\repos\MongoDbProject\MongoDbProject\obj\Debug\net8.0\ref\MongoDbProject.dll
+C:\Users\MICHEAL\source\repos\MongoDbProject\MongoDbProject\obj\Debug\net8.0\MongoDbProject.sourcelink.json

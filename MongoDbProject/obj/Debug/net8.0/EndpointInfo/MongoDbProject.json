@@ -149,7 +149,7 @@
         }
       }
     },
-    "/api/MongoOperations/Create-Compund-Index": {
+    "/api/MongoOperations/Create-Compound-Index": {
       "post": {
         "tags": [
           "MongoOperations"

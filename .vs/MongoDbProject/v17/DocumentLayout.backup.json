@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\micheal\\source\\repos\\mongodbproject\\mongodbproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\micheal\\source\\repos\\mongodbproject\\mongodbproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\micheal\\source\\repos\\mongodbproject\\mongodbproject\\controllers\\mongooperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\controllers\\mongooperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\micheal\\source\\repos\\mongodbproject\\mongodbproject\\services\\mongodbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\services\\mongodbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|c:\\users\\micheal\\source\\repos\\mongodbproject\\mongodbproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F8EBB432-4E2D-4494-9B9F-C9E1E92A5E79}|MongoDbProject\\MongoDbProject.csproj|solutionrelative:mongodbproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\MongoDbProject\\Program.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Program.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\MongoDbProject\\Program.cs",
+              "RelativeToolTip": "MongoDbProject\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:11:22.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoOperationsController.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\MongoDbProject\\Controllers\\MongoOperationsController.cs",
+              "RelativeDocumentMoniker": "MongoDbProject\\Controllers\\MongoOperationsController.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\MongoDbProject\\Controllers\\MongoOperationsController.cs",
+              "RelativeToolTip": "MongoDbProject\\Controllers\\MongoOperationsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAzwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:21:51.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\MongoDbProject\\appsettings.json",
               "RelativeDocumentMoniker": "MongoDbProject\\appsettings.json",
@@ -30,18 +64,17 @@
               "RelativeToolTip": "MongoDbProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-29T11:24:51.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T11:24:51.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MongoDbServices.cs",
               "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\MongoDbProject\\Services\\MongoDbServices.cs",
               "RelativeDocumentMoniker": "MongoDbProject\\Services\\MongoDbServices.cs",
               "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\MongoDbProject\\MongoDbProject\\Services\\MongoDbServices.cs",
               "RelativeToolTip": "MongoDbProject\\Services\\MongoDbServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T08:13:33.004Z",
               "EditorCaption": ""

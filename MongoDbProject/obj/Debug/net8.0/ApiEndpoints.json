@@ -12,7 +12,7 @@
   {
     "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
     "Method": "CreateCompoundIndex",
-    "RelativePath": "api/MongoOperations/Create-Compund-Index",
+    "RelativePath": "api/MongoOperations/Create-Compound-Index",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
