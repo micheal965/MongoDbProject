@@ -1,0 +1,190 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "MongoDbProject",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/MongoOperations/Create-Collections": {
+      "post": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Insert-Into-User-Collection": {
+      "post": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Insert-Into-Product-Collection": {
+      "post": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Update-Document": {
+      "put": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Delete-Document": {
+      "delete": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Find-Or": {
+      "get": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Find-And": {
+      "get": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Find-In": {
+      "get": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Find-All": {
+      "get": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Find-Size": {
+      "get": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Find-Exp": {
+      "get": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Create-Single-Index": {
+      "post": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Create-Compund-Index": {
+      "post": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/Create-Unique-Index": {
+      "post": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/MongoOperations/MultiplyAllArrayElements": {
+      "post": {
+        "tags": [
+          "MongoOperations"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

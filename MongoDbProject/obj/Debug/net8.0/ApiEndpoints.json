@@ -1,0 +1,152 @@
+[
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "CreateCollections",
+    "RelativePath": "api/MongoOperations/Create-Collections",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "CreateCompoundIndex",
+    "RelativePath": "api/MongoOperations/Create-Compund-Index",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "CreateSingleFieldIndex",
+    "RelativePath": "api/MongoOperations/Create-Single-Index",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "CreateUniqueIndex",
+    "RelativePath": "api/MongoOperations/Create-Unique-Index",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "DeleteDocuments",
+    "RelativePath": "api/MongoOperations/Delete-Document",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "FindAll",
+    "RelativePath": "api/MongoOperations/Find-All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "FindAnd",
+    "RelativePath": "api/MongoOperations/Find-And",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "FindExp",
+    "RelativePath": "api/MongoOperations/Find-Exp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "FindIn",
+    "RelativePath": "api/MongoOperations/Find-In",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "FindOr",
+    "RelativePath": "api/MongoOperations/Find-Or",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "FindSize",
+    "RelativePath": "api/MongoOperations/Find-Size",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "InsertDataIntoProductCollection",
+    "RelativePath": "api/MongoOperations/Insert-Into-Product-Collection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "InsertDataIntoUsersCollection",
+    "RelativePath": "api/MongoOperations/Insert-Into-User-Collection",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "GetMultiplyAllArrayElements",
+    "RelativePath": "api/MongoOperations/MultiplyAllArrayElements",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MongoDbProject.Controllers.MongoOperationsController",
+    "Method": "UpdateDocument",
+    "RelativePath": "api/MongoOperations/Update-Document",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

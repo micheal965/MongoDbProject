@@ -1,0 +1,81 @@
+use MongoDbProjectShell
+
+======================================
+
+7)db.Authors.insertMany([
+{name:'Micheal',Age:20},
+{name:'Felopater',Age:20},
+{name:'Carol',Age:21},
+{name:'Youstina',Age:21},
+{name:'Pola',Age:21},
+{name:'Kerolos',Age:21}
+])
+======================================
+8) db.Books.insertMany([
+{
+  "title": "MongoDB Basics",
+  "authorId": ObjectId('681109542a0269d3ec222426')
+},
+{
+  "title": "MongoDB Advanced",
+  "authorId": ObjectId('681109542a0269d3ec222427')
+},
+{
+title
+}
+])
+======================================
+
+9)db.Books.aggregate([
+{
+$lookup: {
+  from:"Authors",
+  localField:'authorId',
+  foreignField:'_id',
+  as: 'authorDetails'
+  }
+}
+])
+======================================
+10) db.Books.aggregate([
+ {
+$group: {
+_id:'$authorId',
+totalBooks:{$sum:1}
+}
+}
+])
+======================================
+11) db.Books.aggregate([
+{
+$match: {
+      authorId: ObjectId('681109542a0269d3ec222427')
+        }},
+{
+$project: {
+      title:1,
+      bookId:'$_id',
+      _id:0}
+}])
+======================================
+12) 
+db.Books.insertMany([
+  { title: "Test 1", publishedDate: "2025-04-01" },
+  { title: "Test 2", publishedDate: "2025-03-15" },
+  { title: "Test 3", publishedDate: "2025-01-10" }
+])
+
+
+db.Books.aggregate([
+{
+ $sort: { publishedDate : -1 } 
+},
+{
+$limit: 2
+},
+{
+$project: {
+      title: 1,
+      publishedDate:1,
+      _id:0}
+}])
